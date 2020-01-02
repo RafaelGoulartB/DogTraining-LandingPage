@@ -4,3 +4,35 @@
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+#main .texts {
+  color: #fff;
+  padding-top: 20em;
+  padding-left: 10em;
+}
+#main .texts .title {
+  width: 50%;
+  font-size: 78px;
+  font-weight: bold;
+  line-height: 1.2em;
+  text-transform: capitalize;
+  padding-bottom: 1em;
+  text-align: top;
+}
+#main .texts .desc {
+  font-size: 18px;
+  width: 40%;
+  opacity: 75%;
+  padding-bottom: 3em;
+}
+#main .texts .cta a {
+  color: #fff;
+  text-decoration: none;
+  background-color: #F7573F;
+  padding-left: 4em;
+  padding-right: 4em;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  margin-right: 1em;
+}
